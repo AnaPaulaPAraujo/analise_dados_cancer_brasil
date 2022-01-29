@@ -13,7 +13,7 @@ A análise teve como objetivo avaliar:
 >* a distribuição de casos por estado brasileiro;
 >* o fluxo interestadual de pessoas em busca de tratamento contra o câncer.
 
-## Tecnoligias utilizadas
+## Tecnologias utilizadas
 
 >* Pandas
 >* Numpy
