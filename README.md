@@ -4,6 +4,8 @@
 
 O projeto visou analisar o banco de dados sobre diagnósticos de câncer no Brasil, entre 2005 e 2019, disponibilizado pelo INCA (<https://www.inca.gov.br/>). 
 
+## Objetivo
+
 A análise teve como objetivo avaliar:
 >* a variação anual de casos de câncer no país;
 >* a distribuição de casos por sexo do paciente;
