@@ -2,11 +2,17 @@
 
 ## Contextualização
 
-<div align="justify">O câncer não é uma doença recente, ele assola a sociedade mundial há séculos causando milhares de mortes todos anos. Embora seja conhecido há muito tempo, foi apenas com o avanço dos estudos e da tecnologia que se pôde entender melhor quais os melhores métodos de prevenção e tratamento.</div>
+<div align="justify">O câncer não é uma doença recente, ele assola a sociedade mundial há séculos causando milhares de mortes todos anos. Embora seja conhecido há muito tempo, foi apenas com o avanço dos estudos e da tecnologia que se pôde entender melhor quais os melhores métodos de prevenção e tratamento.
 
-<div align="justify">Os primeiros marcos, sem dúvida alguma, foram as descobertas dos raios-X em 1895 pelo alemão Wilhelm Conrad Röentgen e dos elementos radiotivos em 1902 pelo casal Curie. A partir desse momento começaram-se as utilizações clínicas dessas descobertas e a evolução no tratamento de câncer. Hoje, temos a consolidação da radio e quimioterapias sendo amplamentes utilizadas, fármacos mais eficientes, além de diversos estudos em prevenção de novos casos.</div>
+</div>
 
-<div align="justify">No Brasil, em 1941 foi criado formalmente o Serviço Nacional de Câncer (SNC), primeiro exclusivo para atender às preocupações com a doença. Depois dele, foram realizados diversos congressos para debater os tratamentos, revistas para discussão, órgãos responsáveis, bancos de dados da população para elaboração de planos de ações, equipamentos, criação do SUS em 1990, legislações e muitos outros acontecimentos que propiciaram um maior acesso da população aos tratamentos. **Todavia, o câncer ainda é uma doença delicada e assunto preocupante no país porque continua matando milhares de pessoas anualmente no Brasil e no mundo. Portanto, é inquestinável a necessidade de avaliação contínua do máximo de parâmetros possíveis sobre a doença.**</div>
+<div align="justify">Os primeiros marcos, sem dúvida alguma, foram as descobertas dos raios-X em 1895 pelo alemão Wilhelm Conrad Röentgen e dos elementos radiotivos em 1902 pelo casal Curie. A partir desse momento começaram-se as utilizações clínicas dessas descobertas e a evolução no tratamento de câncer. Hoje, temos a consolidação da radio e quimioterapias sendo amplamentes utilizadas, fármacos mais eficientes, além de diversos estudos em prevenção de novos casos.
+
+</div>
+
+<div align="justify">No Brasil, em 1941 foi criado formalmente o Serviço Nacional de Câncer (SNC), primeiro exclusivo para atender às preocupações com a doença. Depois dele, foram realizados diversos congressos para debater os tratamentos, revistas para discussão, órgãos responsáveis, bancos de dados da população para elaboração de planos de ações, equipamentos, criação do SUS em 1990, legislações e muitos outros acontecimentos que propiciaram um maior acesso da população aos tratamentos. <b>Todavia, o câncer ainda é uma doença delicada e assunto preocupante no país porque continua matando milhares de pessoas anualmente no Brasil e no mundo. Portanto, é inquestinável a necessidade de avaliação contínua do máximo de parâmetros possíveis sobre a doença</b>.
+
+</div>
 
 **Fontes:**
 
