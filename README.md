@@ -19,22 +19,41 @@
 
 ## Descrição do projeto
 
-<div align="justify"><p>O projeto visou analisar o banco de dados sobre diagnósticos de câncer no Brasil, entre 2005 e 2019, disponibilizado pelo INCA (<https://www.inca.gov.br/>).</p></div>
-
-## Objetivo
-
-A análise teve como objetivo avaliar:
->* a variação anual de casos de câncer no país;
->* a distribuição de casos por sexo do paciente;
->* a ocorrência de casos por idade;
->* a distribuição de casos por estado brasileiro;
->* o fluxo interestadual de pessoas em busca de tratamento contra o câncer.
-
-## Tecnologias utilizadas
+<div align="justify"><p>O projeto visa analisar o banco de dados sobre diagnósticos de câncer no Brasil disponibilizados pelo INCA (<https://www.inca.gov.br/>) utilizando as seguintes tecnologias:</p></div>
 
 >* Pandas
 >* Numpy
 >* Jupyter
 >* Matplotlib
 >* Seaborn
+
+<div align="justify"><p>Ele foi dividido em duas etapas:</p></div>
+
+### ETAPA 01
+<div align="justify"><p>Essa foi a primeira etapa do projeto. Nela, foi utilizado um dataset disponibilizado via pedido por e-mail - disponível no site - para o INCA. </p></div>
+
+### Objetivo da ETAPA 01
+
+#### Objetivo
+
+<div align="justify"><p>O objetivo dessa etapa é respoder as seguintes perguntas pela ANÁLISE EXPLORATÓRIA:</p></div>
+
+> 01. Qual é a distribuição quantitativa de casos de câncer de 2012 a 2019 no Brasil?
+> 02. Qual é a idade mais afetada pelo câncer na população total?
+> 03. Qual é a faixa etária mais afetada pelo câncer?
+> 04. Qual é o sexo mais afetado considerando faixas etárias?
+> 05. Qual é a distribuição quantitativa de casos por estado?
+> 06. Houveram deslocamentos interestaduais para a realização do tratamento?
+
+### ETAPA 02 (Em andamento...)
+<div align="justify"><p>Na etapa 01 desse projeto, foram encontradas diversas dificuldades em virtude da ausência de alguns dados que são de suma importância para uma análise coesa e mais próxima da realidade. Por isso, nessa etapa, está sendo utilizado um dataset mais robusto retirado diretamente do site do INCA (<https://irhc.inca.gov.br/RHCNet/visualizaTabNetExterno.action>).</p></div>
+
+#### Objetivo
+
+<div align="justify"><p>O objetivo dessa etapa é respoder as seguintes perguntas pela ANÁLISE EXPLORATÓRIA:</p></div>
+
+> 01. Qual é a distribuição quantitativa de casos de câncer de 2000 a 2019 no Brasil?
+> 02. Qual é a idade mais afetada pelo câncer na população total?
+> 03. Qual é a o tipo de câncer mais comum na população total?
+
 
