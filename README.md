@@ -19,7 +19,7 @@
 
 ## Descrição do projeto
 
-<div align="justify"><p>O projeto visa analisar o banco de dados sobre diagnósticos de câncer no Brasil disponibilizados pelo INCA (<https://www.inca.gov.br/>) utilizando as seguintes tecnologias:</p></div>
+<div align="justify"><p>O projeto visa analisar o banco de dados sobre diagnósticos de câncer no Brasil disponibilizados pelo INCA (https://www.inca.gov.br/) utilizando as seguintes tecnologias:</p></div>
 
 >* Pandas
 >* Numpy
@@ -30,7 +30,7 @@
 <div align="justify"><p>O projeto foi dividido em duas etapas:</p></div>
 
 ### ETAPA 01
-<div align="justify"><p>Essa foi a primeira etapa do projeto. Nela, foi utilizado um dataset disponibilizado via pedido por e-mail - disponível no site - para o INCA. </p></div>
+<div align="justify"><p>Essa foi a primeira etapa do projeto. Nela, foi utilizado um dataset disponibilizado via pedido por e-mail - disponível no site - para o INCA que mostra os dados de 2012 a 2019. </p></div>
 
 ### Objetivo da ETAPA 01
 
