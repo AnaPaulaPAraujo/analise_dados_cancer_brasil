@@ -1,4 +1,4 @@
-# Análise dos dados nacionais do INCA (Instituto Nacional de Câncer) de 2005 a 2019
+# Análise dos dados nacionais do INCA (Instituto Nacional de Câncer)
 
 ## Contextualização
 
@@ -27,7 +27,7 @@
 >* Matplotlib
 >* Seaborn
 
-<div align="justify"><p>Ele foi dividido em duas etapas:</p></div>
+<div align="justify"><p>O projeto foi dividido em duas etapas:</p></div>
 
 ### ETAPA 01
 <div align="justify"><p>Essa foi a primeira etapa do projeto. Nela, foi utilizado um dataset disponibilizado via pedido por e-mail - disponível no site - para o INCA. </p></div>
