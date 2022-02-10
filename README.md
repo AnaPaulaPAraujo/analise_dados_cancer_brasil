@@ -17,7 +17,7 @@
 <https://www.gov.br/casacivil/pt-br/assuntos/noticias/2020/setembro/sus-completa-30-anos-da-criacao>
 
 
-## Descrição do projeto
+## Descrição do projeto (Em andamento...)
 
 <div align="justify"><p>O projeto visa analisar o banco de dados sobre diagnósticos de câncer no Brasil disponibilizados pelo INCA (https://www.inca.gov.br/) utilizando as seguintes tecnologias:</p></div>
 
